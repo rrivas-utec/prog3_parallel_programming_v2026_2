@@ -1,4 +1,4 @@
-# Task #Implementación de algoritmos paralelos genéricos en C++20 - Programación paralela
+# Task #8: Implementación de algoritmos paralelos genéricos en C++20 - Programación paralela
 **course:** CS2023 - Programación III  
 **unit:** Algoritmos paralelos con Future, Promise y Async  
 **cmake project:** prog3_parallel_programming_v2026_2
